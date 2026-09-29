@@ -1,0 +1,14 @@
+{
+  "منوی اصلی": {
+    "buttons": [
+      {
+        "text": "سایت",
+        "url": "https://example.com"
+      },
+      {
+        "text": "کانال",
+        "url": "https://example.com/channel"
+      }
+    ]
+  }
+}
